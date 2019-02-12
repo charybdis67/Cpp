@@ -1,0 +1,1 @@
+I could not implement the print function. Instead of that, to see my implementation is correct or not, I have used a function called printNormal() which prints in InOrder PreOrder and PostOrder ways.

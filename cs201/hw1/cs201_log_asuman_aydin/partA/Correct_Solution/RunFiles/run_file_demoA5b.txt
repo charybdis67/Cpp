@@ -1,0 +1,36 @@
+
+==7628== Memcheck, a memory error detector
+==7628== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==7628== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==7628== Command: HW1/PartA/Correct_Solution_SY/out
+==7628== 
+[Running] Demo...
+---------------------
+[Running] Add Students.
+[Done] Add Students.
+[Running] Remove Student (100).
+[Done] Remove Student (100).
+[Running] Get Students.
+[Done] Get Students.
+Student Size (Expected): 1
+Student Size (Found)   : 1
+Student 0 (Expected): 200, StudentB
+Student 0 (Found)   : 200, StudentB
+---------------------
+[Done] Demo.
+==7628== 
+==7628== HEAP SUMMARY:
+==7628==     in use at exit: 72,704 bytes in 1 blocks
+==7628==   total heap usage: 6 allocs, 5 frees, 77,032 bytes allocated
+==7628== 
+==7628== LEAK SUMMARY:
+==7628==    definitely lost: 0 bytes in 0 blocks
+==7628==    indirectly lost: 0 bytes in 0 blocks
+==7628==      possibly lost: 0 bytes in 0 blocks
+==7628==    still reachable: 72,704 bytes in 1 blocks
+==7628==         suppressed: 0 bytes in 0 blocks
+==7628== Reachable blocks (those to which a pointer was found) are not shown.
+==7628== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==7628== 
+==7628== For counts of detected and suppressed errors, rerun with: -v
+==7628== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

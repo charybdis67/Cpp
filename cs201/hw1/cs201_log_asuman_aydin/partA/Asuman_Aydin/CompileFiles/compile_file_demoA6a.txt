@@ -1,0 +1,16 @@
+
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp: In member function ‘bool SRS::addStudent(int, std::__cxx11::string)’:
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp:57:42: error: lvalue required as left operand of assignment
+   students2[studentNo -1].getStudentId() = studentId;
+                                          ^
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp: In member function ‘bool SRS::removeStudent(int)’:
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp:71:35: error: invalid use of member function (did you forget the ‘()’ ?)
+    if(students[i].getStudentId == studentId)
+                                   ^
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp:80:7: error: ‘i’ was not declared in this scope
+   for(i = index +1; i < studentNo; i++)
+       ^
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp: In member function ‘int SRS::getStudents(Student*&)’:
+HW1/PartA/Asuman_Aydin/SimpleSRS.cpp:101:41: warning: NULL used in arithmetic [-Wpointer-arith]
+     if(allStudents[i].getStudentId() != NULL)
+                                         ^

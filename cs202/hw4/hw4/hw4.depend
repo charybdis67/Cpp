@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545737718 source:c:\users\chary\desktop\fall 2018 bilkent\cs202\ödevler\hw4\hw4\graph.cpp
+	"graph.h"
+
+1545756984 c:\users\chary\desktop\fall 2018 bilkent\cs202\ödevler\hw4\hw4\graph.h
+	<list>
+	<map>
+	<queue>
+	<cstring>
+
+1545666287 source:c:\users\chary\desktop\fall 2018 bilkent\cs202\ödevler\hw4\hw4\main.cpp
+	"graph.h"
+	<cstring>
+	<iostream>
+

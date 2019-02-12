@@ -1,0 +1,31 @@
+
+[Running] Demo...
+---------------------
+[Running] Add Students.
+Successful insertion for Cigdem Gunduz (7890)
+Unsuccessful insertion for Serhan Yilmaz (7890)
+[Done] Add Students.
+Unsuccessful deletion for Student 5000
+[Running] Add & Remove Multiple Students .
+[Done] Add & Remove Multiple Students .
+[Running] Get Students.
+[Done] Get Students.
+[Running] Read students.
+Student 0 : 5678, Ercument Cicek
+Student 1 : 7890, Cigdem Gunduz
+Student 2 : 0, Gozde Gunesli
+Student 3 : 1, Gozde Gunesli
+[Done] Read students.
+[Running] Comparing students.
+Student Size (Expected): 4
+Student Size (Found)   : 4
+Student 0 (Expected): 0, Gozde Gunesli
+Student 0 (Found)   : 0, Gozde Gunesli
+Student 1 (Expected): 1, Gozde Gunesli
+Student 1 (Found)   : 1, Gozde Gunesli
+Student 2 (Expected): 5678, Ercument Cicek
+Student 2 (Found)   : 5678, Ercument Cicek
+Student 3 (Expected): 7890, Cigdem Gunduz
+Student 3 (Found)   : 7890, Cigdem Gunduz
+---------------------
+[Done] Demo.

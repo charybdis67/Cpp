@@ -1,0 +1,20 @@
+
+[Running] Demo...
+---------------------
+[Running] Add Students.
+[Done] Add Students.
+[Running] Get Students.
+[Done] Get Students.
+[Running] Read students.
+Student 0 : 100, Student1
+Student 1 : 200, Student2
+[Done] Read students.
+[Running] Comparing students.
+Student Size (Expected): 2
+Student Size (Found)   : 2
+Student 0 (Expected): 100, Student1
+Student 0 (Found)   : 100, Student1
+Student 1 (Expected): 200, Student2
+Student 1 (Found)   : 200, Student2
+---------------------
+[Done] Demo.

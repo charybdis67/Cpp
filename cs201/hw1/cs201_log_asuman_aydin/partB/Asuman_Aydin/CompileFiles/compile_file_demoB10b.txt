@@ -1,0 +1,17 @@
+
+HW1/PartB/Asuman_Aydin/SRS.cpp: In member function ‘bool SRS::removeCourse(int, int)’:
+HW1/PartB/Asuman_Aydin/SRS.cpp:186:43: error: cannot convert ‘Student’ to ‘Student*’ in initialization
+                 Student *temp = students[i];
+                                           ^
+HW1/PartB/Asuman_Aydin/SRS.cpp:187:25: error: request for member ‘getStudentId’ in ‘temp’, which is of pointer type ‘Student*’ (maybe you meant to use ‘->’ ?)
+                 if(temp.getStudentId() == studentId)
+                         ^
+HW1/PartB/Asuman_Aydin/SRS.cpp:189:42: error: request for member ‘getCourse’ in ‘temp’, which is of pointer type ‘Student*’ (maybe you meant to use ‘->’ ?)
+                     Course* temp2 = temp.getCourse();
+                                          ^
+HW1/PartB/Asuman_Aydin/SRS.cpp:190:46: error: request for member ‘getCourseNo’ in ‘temp’, which is of pointer type ‘Student*’ (maybe you meant to use ‘->’ ?)
+                     for(int j = 0 ; j < temp.getCourseNo(); j++)
+                                              ^
+HW1/PartB/Asuman_Aydin/SRS.cpp:198:45: error: request for member ‘getCourseNo’ in ‘temp’, which is of pointer type ‘Student*’ (maybe you meant to use ‘->’ ?)
+                     int courseNumber = temp.getCourseNo();
+                                             ^

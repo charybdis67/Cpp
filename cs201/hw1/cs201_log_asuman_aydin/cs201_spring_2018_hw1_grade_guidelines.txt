@@ -1,0 +1,56 @@
+---------------------------------PartA-----------------------------------
+Demo_A0  : Constructor only                                             8
+Demo_A1  : Student copy constructor                                     4
+Demo_A2a : Add 1 Student (Correct Output)                               2
+Demo_A2b : Add 1 Student (No Memory Leak)                               2
+Demo_A3a : Add Multiple Students (Correct Output)                       2
+Demo_A3b : Add Multiple Students (No Memory Leak)                       2
+Demo_A4  : Add Existing Student                                         4
+Demo_A5a : Remove 1 Student (Correct Output)                            2
+Demo_A5b : Remove 1 Student (No Memory Leak)                            2
+Demo_A6a : Remove Multiple Students (Correct Output)                    2
+Demo_A6b : Remove Multiple Students (No Memory Leak)                    2
+Demo_A7  : Remove non-existing Student                                  4
+Demo_A8a : Demo given in partA (Correct Output)                         2
+Demo_A8b : Demo given in partA (No Memory Leak)                         2
+---------------------------------PartA---------------------------------40
+---------------------------------PartB-----------------------------------
+Demo_B0  : Constructor only                                             2
+.........................................................................
+........Demo_B1-B11 are tested with calculateCourseGrade function........
+.........................................................................
+Demo_B1a : SRS assignment operator (Correct Output)                     2
+Demo_B1b : SRS assignment operator (No Memory Leak)                     2
+Demo_B2a : SRS copy constructor (Correct Output)                        2
+Demo_B2b : SRS copy constructor (No Memory Leak)                        2
+Demo_B3  : Add 1 Course to 1 student (No Memory Leak)                   2
+Demo_B4a : Add 1 Course to multiple students (Correct Output)	        2
+Demo_B4b : Add 1 Course to multiple students (No Memory Leak)	        2
+Demo_B5a : Add multiple courses to multiple students (Correct Output)   2
+Demo_B5b : Add multiple courses to multiple students (No Memory Leak)   2
+Demo_B6  : Add existing course to 1 student (Correct Output)            2
+Demo_B7  : Exceptions for W, FX and FZ (Correct Output)                 4
+Demo_B8  : Remove 1 course (No Memory Leak)                             2
+Demo_B9  : Remove 1 student (No Memory Leak)                            2
+Demo_B10a: Remove multiple courses (Correct Output)                     2
+Demo_B10b: Remove multiple courses (No Memory Leak)                     2
+Demo_B11 : Remove non-existing course (Correct Output)                  2
+.........................................................................
+....Demo_B12-B21 are tested with calculateStudentCurrentGPA function.....
+.........................................................................
+Demo_B12 : Add 1 Course to 1 student (Correct Output)                   2
+Demo_B13a: Add multiple courses to multiple students (Correct Output)	2
+Demo_B13b: Add multiple courses to multiple students (No Memory Leak)	2
+Demo_B14a: Add multiple courses to multiple students (Correct Output)	2
+Demo_B14b: Add multiple courses to multiple students (No Memory Leak)	2
+Demo_B15 : Add existing course to 1 student (Correct Output)            2
+Demo_B16 : Exception for W (Correct Output)                             2
+Demo_B17 : Weighted grades (Correct Output)                             4
+Demo_B18 : Remove 1 course (No Memory Leak)                             2
+Demo_B19a: Remove multiple courses (Correct Output)                     2
+Demo_B19b: Remove multiple courses (No Memory Leak)                     2
+Demo_B20 : Remove non-existing course (Correct Output)                  2
+Demo_B21a : Demo given in partB (Correct Output)                        4
+Demo_B21b : Demo given in partB (No Memory Leak)                        4
+---------------------------------PartB---------------------------------70
+---------------------------------Total--------------------------------110 (10 Bonus)

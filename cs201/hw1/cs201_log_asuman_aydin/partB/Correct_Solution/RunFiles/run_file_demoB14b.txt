@@ -1,0 +1,46 @@
+
+==14996== Memcheck, a memory error detector
+==14996== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==14996== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==14996== Command: HW1/PartB/Correct_Solution_SY/out
+==14996== 
+[Running] Demo...
+---------------------
+[Running] Add Students.
+[Done] Add Students.
+[Running] Add Courses.
+[Done] Add Courses.
+[Running] Get Students.
+[Done] Get Students.
+[Running] Read students.
+Student 0 : 100, StudentA
+Student 1 : 200, StudentB
+Student 2 : 300, StudentC
+[Done] Read students.
+[Running] Calculate Student GPA.
+Student 100 (Expected): 3
+Student 100 (Found)   : 3
+Student 200 (Expected): 3
+Student 200 (Found)   : 3
+Student 300 (Expected): 1
+Student 300 (Found)   : 1
+[Done] Calculate Course GPA.
+Demo result is :true
+---------------------
+[Done] Demo.
+==14996== 
+==14996== HEAP SUMMARY:
+==14996==     in use at exit: 72,704 bytes in 1 blocks
+==14996==   total heap usage: 25 allocs, 24 frees, 79,640 bytes allocated
+==14996== 
+==14996== LEAK SUMMARY:
+==14996==    definitely lost: 0 bytes in 0 blocks
+==14996==    indirectly lost: 0 bytes in 0 blocks
+==14996==      possibly lost: 0 bytes in 0 blocks
+==14996==    still reachable: 72,704 bytes in 1 blocks
+==14996==         suppressed: 0 bytes in 0 blocks
+==14996== Reachable blocks (those to which a pointer was found) are not shown.
+==14996== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==14996== 
+==14996== For counts of detected and suppressed errors, rerun with: -v
+==14996== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -1,0 +1,40 @@
+
+[Running] Demo...
+---------------------
+[Running] Add Students.
+[Done] Add Students.
+[Running] Add Multiple Student & Courses.
+[Done] Add Multiple Student & Courses.
+[Running] Remove Multiple Student & Courses.
+[Done] Remove Multiple Student & Courses.
+[Running] Get Students.
+[Done] Get Students.
+[Running] Read students.
+Student 0 : 5678, Ercument Cicek
+Student 1 : 7890, Cigdem Gunduz
+Student 2 : 0, Gozde Gunesli
+Student 3 : 3782, Onur Karakaslar
+[Done] Read students.
+[Running] Calculate Student GPA.
+Student 0 (Expected): Gozde Gunesli
+Student 0 (Found)   : Gozde Gunesli
+Student 3782 (Expected): Onur Karakaslar
+Student 3782 (Found)   : Onur Karakaslar
+Student 5678 (Expected): Ercument Cicek
+Student 5678 (Found)   : Ercument Cicek
+Student 7890 (Expected): Cigdem Gunduz
+Student 7890 (Found)   : Cigdem Gunduz
+[Done] Calculate Course GPA.
+Number of high honor (Expected) :1
+Number of high honor (Found)    :1
+Number of honor (Expected) :0
+Number of honor (Found)    :0
+Number of satisfactory (Expected) :2
+Number of satisfactory (Found)    :2
+Number of probation (Expected) :0
+Number of probation (Found)    :0
+Number of unsatisfactory (Expected) :2
+Number of unsatisfactory (Found)    :2
+Demo result is :true
+---------------------
+[Done] Demo.

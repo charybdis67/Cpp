@@ -1,0 +1,15 @@
+
+[Running] Demo 1...
+---------------------
+[Running] Add Student (100).
+[Done] Add Student (100).
+[Running] Add Student (100) again.
+[Done] Add Student (100) again.
+[Running] Get Students.
+[Done] Get Students.
+Student Size (Expected): 1
+Student Size (Found)   : 1
+Student 0 (Expected): 100, StudentA
+Student 0 (Found)   : 100, StudentA
+---------------------
+[Done] Demo 1.

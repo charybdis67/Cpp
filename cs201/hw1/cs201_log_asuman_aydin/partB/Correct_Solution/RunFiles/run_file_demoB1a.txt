@@ -1,0 +1,14 @@
+
+[Running] Demo...
+---------------------
+[Running] Add Student.
+[Done] Add Student.
+[Running] Add Course.
+[Done] Add Course.
+[Running] Calculate Course GPA.
+[Done] Calculate Course GPA.
+Course (Expected): 2.7
+Course (Found)   : 2.7
+Demo result is :true
+---------------------
+[Done] Demo.

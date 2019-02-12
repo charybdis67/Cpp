@@ -1,0 +1,39 @@
+
+==8989== Memcheck, a memory error detector
+==8989== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==8989== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==8989== Command: HW1/PartB/Correct_Solution_SY/out
+==8989== 
+[Running] Demo...
+---------------------
+[Running] Add Student.
+[Done] Add Student.
+[Running] Add Course.
+[Done] Add Course.
+[Running] Call copy constructor.
+[Done] Call copy constructor.
+[Running] Delete old SRS.
+[Done] Delete old SRS.
+[Running] Calculate Course GPA.
+[Done] Calculate Course GPA.
+Course (Expected): 2.7
+Course (Found)   : 2.7
+Demo result is :true
+---------------------
+[Done] Demo.
+==8989== 
+==8989== HEAP SUMMARY:
+==8989==     in use at exit: 72,704 bytes in 1 blocks
+==8989==   total heap usage: 7 allocs, 6 frees, 77,040 bytes allocated
+==8989== 
+==8989== LEAK SUMMARY:
+==8989==    definitely lost: 0 bytes in 0 blocks
+==8989==    indirectly lost: 0 bytes in 0 blocks
+==8989==      possibly lost: 0 bytes in 0 blocks
+==8989==    still reachable: 72,704 bytes in 1 blocks
+==8989==         suppressed: 0 bytes in 0 blocks
+==8989== Reachable blocks (those to which a pointer was found) are not shown.
+==8989== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==8989== 
+==8989== For counts of detected and suppressed errors, rerun with: -v
+==8989== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

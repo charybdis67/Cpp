@@ -1,0 +1,11 @@
+
+[Running] Demo...
+---------------------
+[Running] Create Student.
+[Done] Create Student.
+[Running] Create Student via copy ctor.
+[Done] Create Student via copy ctor.
+Student (Expected): 100, StudentA
+Student (Found)   : 100, StudentA
+---------------------
+[Done] Demo.

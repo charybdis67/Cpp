@@ -1,0 +1,21 @@
+
+[Running] Demo...
+---------------------
+[Running] Add Students.
+[Done] Add Students.
+[Running] Add Courses.
+[Done] Add Courses.
+[Running] Remove Course.
+[Done] Remove Course.
+[Running] Get Students.
+[Done] Get Students.
+[Running] Read students.
+Student 0 : 100, StudentA
+[Done] Read students.
+[Running] Calculate Student GPA.
+Student 100 (Expected): 2.35
+Student 100 (Found)   : 2.35
+[Done] Calculate Course GPA.
+Demo result is :true
+---------------------
+[Done] Demo.

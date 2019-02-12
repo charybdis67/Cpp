@@ -1,0 +1,16 @@
+Name : Correct_Solution_SY
+demoA0 - Correct Logic - 8 points
+demoA1 - Correct Logic - 4 points
+demoA2a - Correct Logic - 2 points
+demoA2b - Correct Logic - 2 points
+demoA3a - Correct Logic - 2 points
+demoA3b - Correct Logic - 2 points
+demoA4 - Correct Logic - 4 points
+demoA5a - Correct Logic - 2 points
+demoA5b - Correct Logic - 2 points
+demoA6a - Correct Logic - 2 points
+demoA6b - Correct Logic - 2 points
+demoA7 - Correct Logic - 4 points
+demoA8a - Correct Logic - 2 points
+demoA8b - Correct Logic - 2 points
+Grade is 40 out of 40.

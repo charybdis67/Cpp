@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1525535316 source:c:\users\chary\desktop\2018 spring bilkent\cs201\hw3\hw3\simpletrack.cpp
+	"SimpleTrack.h"
+	<string>
+
+1525535360 c:\users\chary\desktop\2018 spring bilkent\cs201\hw3\hw3\simpletrack.h
+	<string>
+
+1525561354 source:c:\users\chary\desktop\2018 spring bilkent\cs201\hw3\hw3\simpleacs.cpp
+	<cstddef>
+	"SimpleACS.h"
+	<iostream>
+
+1525543768 c:\users\chary\desktop\2018 spring bilkent\cs201\hw3\hw3\simpleacs.h
+	<string>
+	"SimpleTrack.h"
+
+1525561363 source:c:\users\chary\desktop\2018 spring bilkent\cs201\hw3\hw3\main.cpp
+	<iostream>
+	"SimpleACS.h"
+	"SimpleTrack.h"
+

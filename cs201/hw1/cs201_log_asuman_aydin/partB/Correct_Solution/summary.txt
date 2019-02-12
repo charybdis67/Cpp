@@ -1,0 +1,33 @@
+Name : Correct_Solution_SY
+demoB0 - Correct Logic - 2 points
+demoB1a - Correct Logic - 2 points
+demoB1b - Correct Logic - 2 points
+demoB2a - Correct Logic - 2 points
+demoB2b - Correct Logic - 2 points
+demoB3 - Correct Logic - 2 points
+demoB4a - Correct Logic - 2 points
+demoB4b - Correct Logic - 2 points
+demoB5a - Correct Logic - 2 points
+demoB5b - Correct Logic - 2 points
+demoB6 - Correct Logic - 2 points
+demoB7 - Correct Logic - 4 points
+demoB8 - Correct Logic - 2 points
+demoB9 - Correct Logic - 2 points
+demoB10a - Correct Logic - 2 points
+demoB10b - Correct Logic - 2 points
+demoB11 - Correct Logic - 2 points
+demoB12 - Correct Logic - 2 points
+demoB13a - Correct Logic - 2 points
+demoB13b - Correct Logic - 2 points
+demoB14a - Correct Logic - 2 points
+demoB14b - Correct Logic - 2 points
+demoB15 - Correct Logic - 2 points
+demoB16 - Correct Logic - 2 points
+demoB17 - Correct Logic - 4 points
+demoB18 - Correct Logic - 2 points
+demoB19a - Correct Logic - 2 points
+demoB19b - Correct Logic - 2 points
+demoB20 - Correct Logic - 2 points
+demoB21a - Correct Logic - 4 points
+demoB21b - Correct Logic - 4 points
+Grade is 70 out of 70.
